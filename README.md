@@ -3,6 +3,7 @@
 For deployment, JPetStore needs to be built with Apache Maven. The only requirements are JDK >=1.5 and Maven >= 2.0.8
 
 Running JpetStore with Tomcat:
+
 1.	Download and Unzip Tomcat
 2.	Download JpetStore source code
 3.	From Eclipse, Import -> Maven -> Existing Maven Projects -> unzipped jpetstore source
